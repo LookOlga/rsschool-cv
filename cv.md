@@ -33,3 +33,12 @@ function gooseFilter (birds) {
    return birds.filter(item => !geese.includes(item));
 };
 ```
+
+## Experience
+Mostly I have been working as a freelancer.  
+
+## Education
+I've completed some courses on Udemy. Most of the time I studied by myself reading articles and documentation, watching some videos.
+
+## English
+B2 
