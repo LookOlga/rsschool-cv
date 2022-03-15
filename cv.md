@@ -8,11 +8,10 @@
 
 ## About
 
-До того как заняться веб-разработкой, работала на фрилансе в качестве графического дизайнера и изучала веб-дизайн. Для полной картины понимания процесса создания сайтов, заинтересовалась версткой. Данный интерес перерос в желание развиваться в данном направлении.
-Имею хорошие знания HTML и CSS и базовые знания JavaScript и Vue JS. Ежедневно занимаюсь изучением нового материала и своим саморазвитием. Хочу приобрести опыт работы в компании, получить новые знания и преумножить свои навыки.
+Before I started to learn web development, I had worked as a web and graphic designer. I was curious how websiies are made so I decided to look into it. And that's how my adventure began.
+I became more and more intrested in web development. The most part that I like that there are many opportunities to grow and develop your skills. 
 
-Могу описать себя такими словами:
-Хорошо работаю в команде и способна спокойно преодолевать трудности. К решению задач и проблем подхожу с ответственностью и внимательностью, всегда открыта к чему-то новому, так как люблю развиваться.
+I have good knowledge of HTML, CSS and basic knowledge of JavaScript and Vue. Every day I am learning something new. I would like to gain work experience in a company, get new knowledge and develop my skills.
 
 ## Skils
 * HTML
@@ -35,10 +34,10 @@ function gooseFilter (birds) {
 ```
 
 ## Experience
-Mostly I have been working as a freelancer.  
+I've worked as a freelancer and outsourcer. I've made landing pages for some projects. 
 
 ## Education
-I've completed some courses on Udemy. Most of the time I studied by myself reading articles and documentation, watching some videos.
+I've taken several courses on Udemy. Most of the time I learned by myself, reading articles and documentation, watching some videos. 
 
 ## English
 B2 
