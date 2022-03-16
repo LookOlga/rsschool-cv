@@ -1,2 +1,2 @@
 # rsschool-cv
-https://lookolga.github.io/rsschool-cv
+https://lookolga.github.io/rsschool-cv/
